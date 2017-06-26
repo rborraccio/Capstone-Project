@@ -14,10 +14,10 @@ include("inc/header.php");
         		<p >We take great pride in the positive feedback we consistently receive from our customers<br/> that have enjoyed our Italian food. Below is a list of recent press regarding Lino&#8217;s.</p>
         	</div>	
         	<br/>
-            <div class="col-sm-6" class="align-text-center" id="linos_book">
+            <div class="col-sm-6" class="align-text-center">
 				<h2>Lino&#8217;s Autobiography</h2>
             	<p>Read Lino&#8217;s Autobiography <br/>
-            	<em>'Out of the Rubble - From WWII Chaos to American Entrepreneur'</em><br/>Ask Lino for a signed copy, also available for purchase on<a href="https://www.amazon.com/Out-Rubble-World-American-Entrepreneurship/dp/149082331X" target="blank"><br/>Amazon</a></p>
+            	<em>'Out of the Rubble - From WWII Chaos to American Entrepreneur'</em> <a href="https://www.amazon.com/Out-Rubble-World-American-Entrepreneurship/dp/149082331X" target="blank"><br/>available for purchase on Amazon</a></p>
 				<a href="https://www.amazon.com/Out-Rubble-World-American-Entrepreneurship-ebook/dp/B00KBKS4X4">
 				<img src="img/linos_book.jpg" alt="Linos Autobiography" height="300"></a>
             </div>
@@ -38,7 +38,7 @@ include("inc/header.php");
 
 				 <div class="row videoContainer"> 
 					 <div class="col-sm-12">
-						<video controls class="embed-responsive-item" allowfullscreen style="height: 225px; width: 325px;">
+						<video controls class="embed-responsive-item" allowfullscreen style="height: 65%; width: 65%;">
 		              		<source class="embed-responsive-item" src="img/memorialday.mp4" type="video/mp4">
 			              	<p>Your browser does not support HTML5 video, <a href="http://www.clickondetroit.com/news/michigan/oakland-county/why-memorial-day-means-so-much-to-this-popular-rochester-hills-restaurant-owner" target="blank" >please click here</a></p>
 		                </video>

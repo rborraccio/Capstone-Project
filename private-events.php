@@ -9,9 +9,9 @@ include("inc/header.php");
 
 	<h2>Lino&#039;s Catering and Banquet Facilities</h2>
 
-	<a href="download_docs/banquet_menu.pdf" target="blank"><img src="img/pdf.png" />download banquet menu</a>
+	<a href="download_docs/banquet_menu.pdf" target="_blank"><img src="img/pdf.png" />download banquet menu</a>
 	&nbsp
-	<a href="download_docs/catering_menu.pdf" target="blank"><img src="img/pdf.png" />download catering menu</a>
+	<a href="download_docs/catering_menu.pdf" target="_blank"><img src="img/pdf.png" />download catering menu</a>
 	<br/>
 	<br/>
 
